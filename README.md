@@ -15,7 +15,7 @@ Having knowledge of backend development allows me to seamlessly integrate fronte
 
 ### 🌐 Socials:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/mayankgupta_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankgupta0902)
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/mayankgupta_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankgupta0902) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gupta9mayank@gmail.com)
 
 ### 💻 Tech Stack:
 
